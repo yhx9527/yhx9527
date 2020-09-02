@@ -7,16 +7,7 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
 <a href="yhxstudy@163.com">
   <img src="https://github.com/blackcater/blackcater/raw/master/images/social-gmail.svg" height="40" />
 </a>
-<!--
-- 🔭 I’m currently working on yuanfudao
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
 <p>
   <samp>
      Welcome to my page!
@@ -25,12 +16,7 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
     I'm yhx9527. A Web Developer from China, currently working in Beijing 🔭
   </samp>
   <br/>
-  <br/>
 </p>
-<!--
-<img align="left" alt="yhx9527's github stats" width="50%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=yhx9527&count_private=true&show_icons=true">
-<img align="right" alt="yhx9527's top langs" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhx9527">
--->
 
 ## 🔧 Technologies & Tools
 
@@ -59,11 +45,6 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhx9527&repo=graduate_project_yhx&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<!--
-<a href="https://github.com/yhx9527/graduate_project_yhx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhx9527&repo=graduate_project_yhx&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
--->
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
