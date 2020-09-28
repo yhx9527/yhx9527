@@ -1,5 +1,5 @@
 <h2 align="center"><img
-src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> Hey! I'm <a href="https://yhx9527.github.io/" target="_blank">yhx9527</a>.</h2>
+src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> Hey! I'm <a href="https://github.com/yhx9527/yhx-issue-blogs/issues" target="_blank">yhx9527</a>.</h2>
 
 <a href="https://yhx9527.github.io/" alt="yhx's blog" target="_blank">
   <img src="https://github.com/blackcater/blackcater/raw/master/images/social-blog.svg" height="40" />
