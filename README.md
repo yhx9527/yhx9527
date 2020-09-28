@@ -1,7 +1,7 @@
 <h2 align="center"><img
 src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> Hey! I'm <a href="https://github.com/yhx9527/yhx-issue-blogs/issues" target="_blank">yhx9527</a>.</h2>
 
-<a href="https://yhx9527.github.io/" alt="yhx's blog" target="_blank">
+<a href="https://github.com/yhx9527/yhx-issue-blogs/issues" alt="yhx's blog" target="_blank">
   <img src="https://github.com/blackcater/blackcater/raw/master/images/social-blog.svg" height="40" />
 </a>
 <a href="yhxstudy@163.com">
